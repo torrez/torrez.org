@@ -1,6 +1,8 @@
 ---
 title: A Decade on Twitter
-category: twitter
+date: 2016-11-14 00:00:00 -08:00
+categories:
+- twitter
 ---
 
 [A Decade on Twitter](https://adactio.com/journal/11436) by Jeremy Keith.

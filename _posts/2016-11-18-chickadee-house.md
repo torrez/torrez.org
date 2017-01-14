@@ -1,6 +1,8 @@
 ---
 title: Chickadee House
-category: art
+date: 2016-11-18 00:00:00 -08:00
+categories:
+- art
 ---
 
 <img src="http://67.media.tumblr.com/9a93f8edb11f0110e083d4f9faae549f/tumblr_of7atp1XjW1rb61f3o5_1280.jpg" width="400" height="400">

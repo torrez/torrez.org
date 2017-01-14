@@ -1,7 +1,10 @@
 ---
 title: The Current Obsession
-category: city-life
+date: 2016-11-13 00:00:00 -08:00
+categories:
+- city-life
 ---
+
 Off: Twitter
 
 On: NYTimes, Instagram, and bikes
