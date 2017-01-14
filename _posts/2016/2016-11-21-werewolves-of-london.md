@@ -1,3 +1,8 @@
+---
+title: Werewolves Of London
+date: 2016-11-21 00:00:00 -08:00
+---
+
 ----
 title: Werewolves of London
 category: work
