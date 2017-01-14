@@ -1,6 +1,0 @@
----
-title: test2
-date: 2017-01-13 20:45:00 -08:00
----
-
-this is the second test.
